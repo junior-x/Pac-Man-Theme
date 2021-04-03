@@ -1,6 +1,6 @@
 # PAC MAN#
 
-![Image of Theme](/images/react.png)
+![Image of Theme]
 
 **Enjoy! :)**
 

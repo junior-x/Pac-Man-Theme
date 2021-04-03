@@ -3,7 +3,7 @@
   "displayName": "Pac-Man Theme",
   "description": "\"Retro Pac-Man's Colors",
   "version": "0.0.3",
-  "icon": "\"pac-man-theme-vampyrsoda",
+  "icon": "images/pac-man-theme-vampyrsoda.png",
   "publisher": "vampyrsoda",
   "engines": {
     "vscode": "^1.55.0"
