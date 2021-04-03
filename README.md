@@ -1,6 +1,12 @@
 # PAC MAN#
 
-![Image of Theme]
+![Image of Theme](https://github.com/vampyrsoda/Pac-Man-Theme/blob/main/images/i-header.png)
+
+![Image of Theme](https://github.com/vampyrsoda/Pac-Man-Theme/blob/main/images/ii-reactjs.png)
+
+![Image of Theme](https://github.com/vampyrsoda/Pac-Man-Theme/blob/main/images/iii-dom.png)
+
+![Image of Theme](https://github.com/vampyrsoda/Pac-Man-Theme/blob/main/images/iv-typescript.png)
 
 **Enjoy! :)**
 
