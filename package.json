@@ -1,42 +1,42 @@
 {
-    "name": "pac-man-theme",
-    "displayName": "Pac-Man Theme",
-    "description": "Retro Pac-Man's Colors",
-    "icon": "images/pac-man-theme-vampyrsoda.png",
-    "version": "0.0.2",
-    "publisher": "vampyrsoda",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-		"pac man",
-		"video games",
-		"retro",
-		"vintage",
-		"vampyrsoda",
-		"theme",
-		"jogo",
-		"rainbow",
-		"yellow",
-		"amarelo",
-		"colorful",
-		"pac-man",
-		"pac man theme"
-	],
-    "repository": {
-		"type": "git",
-		"url": "https://github.com/vampyrsoda/pac-man-theme"
-	},
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pac-Man's Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Pac-Man-Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "pac-man-theme",
+  "displayName": "Pac-Man Theme",
+  "description": "\"Retro Pac-Man's Colors",
+  "version": "0.0.3",
+  "icon": "\"pac-man-theme-vampyrsoda",
+  "publisher": "vampyrsoda",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "pac man",
+    "video games",
+    "retro",
+    "vintage",
+    "vampyrsoda",
+    "theme",
+    "jogo",
+    "rainbow",
+    "yellow",
+    "amarelo",
+    "colorful",
+    "pac-man",
+    "pac man theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vampyrsoda"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pac-Man Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pac-Man Theme-color-theme.json"
+      }
+    ]
+  }
 }
