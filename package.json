@@ -2,7 +2,7 @@
   "name": "pac-man-theme",
   "displayName": "Pac-Man Theme",
   "description": "\"Retro Pac-Man's Colors",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "icon": "images/pac-man-theme-vampyrsoda.png",
   "publisher": "vampyrsoda",
   "engines": {
@@ -24,11 +24,14 @@
     "amarelo",
     "colorful",
     "pac-man",
-    "pac man theme"
+    "pac man theme",
+    "vscode",
+    "visual studio code",
+    "vsc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vampyrsoda/Pac-Man-Theme"
+    "url": "https://github.com/Pac-Man-Theme/Pac-Man_Theme"
   },
   "contributes": {
     "themes": [
