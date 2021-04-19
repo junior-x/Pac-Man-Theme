@@ -1,4 +1,4 @@
-# PAC MAN#
+# 🥢 PAC MAN#
 
 ![Image of Theme](images/i-game-title.png)
 
@@ -18,12 +18,6 @@
 
 ![Image of Theme](images/iv-typescript.png)
 
-
-                    
-                    |     HEX      |       HEX      |      HEX      |     HEX      |      HEX       |      HEX      |
-                                                                                                                     
-                    |   #46255C    |    #026C8F     |   #ffffff     |   #ffcc6e    |    #7bd88f     |    #f2224f    |
-                    |   #fd9353    |    #9b045c     |   #5ad4e6     |   #525053    |    #8b888f     |    #222222    |
 
 
 ![Image of Ghost](images/xxx-ghost.png)
