@@ -1,4 +1,4 @@
-# 🥢 PAC MAN#
+# 🧪 PAC MAN#
 
 ![Image of Theme](images/i-game-title.png)
 
