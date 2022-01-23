@@ -1,5 +1,0 @@
-{
-  "@babel/generator":{
-    "string": "pizza";
-  },
-}
